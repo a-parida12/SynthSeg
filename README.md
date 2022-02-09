@@ -6,6 +6,10 @@ Using medical information we assign each of the anatomical region from the synth
 of the categories. This process is also configurable. The method is dockerised in to allow 
 for plug and play approach. 
 
+
+<img width="671" alt="Sample Segmentation Result" src="https://user-images.githubusercontent.com/23334003/153214599-cc600e9e-5f0f-476f-83a9-5f61ef657662.png">
+
+
 ----------------
 
 ### Easily segment your data with one command
@@ -165,3 +169,11 @@ CVPR 2018
 [2] *[Unsupervised Data Imputation via Variational Inference of Deep Subspaces](https://arxiv.org/abs/1903.03503)* \
 Adrian V. Dalca, John Guttag, Mert R. Sabuncu \
 Arxiv preprint 2019
+
+----------------
+###  External Links
+ - [Original Code Repo](https://github.com/BBillot/SynthSeg)
+ - [Docker Code Repo](https://github.com/deepc-health/SynthSeg)
+ - [Docker Container Repo](https://hub.docker.com/r/aparida12/brainseg)
+--------------------------------
+--------------------------------
